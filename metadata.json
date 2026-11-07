@@ -1,0 +1,6 @@
+{
+  "name": "AegisVote Global - Secure Online Voting System",
+  "description": "Cast verified secret ballots from anywhere in the world, inspect candidates and ballot propositions, generate cryptographic receipts, and monitor live election night returns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
